@@ -9,7 +9,7 @@ Google recently made it so 3rd party apps no longer can access gmail through ins
 Thanks for looking at this project! I hope it exceeds your expecations
 -Garison
 
-# Preriquistes
+# Prerequisites
 
 1. Jetson nano
 2. USB webcam
