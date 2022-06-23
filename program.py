@@ -14,7 +14,7 @@ msg = "From: %s\nTo: %s\nSubject: %s\nDate: %s\n\n%s" % ( sender_email, recip_em
 print("email setup complete!\nstarting detectmodel...")
 
 net = jetson.inference.detectNet("ssd-mobilenet-v2", threshold=0.5)
-camera = jetson.utils.videoSource("/dev/video0")      # '/dev/video0' for V4L2
+camera = jetson.utils.videoSource("/dev/video0")
 display = jetson.utils.videoOutput("display://0") # 'my_video.mp4' for file
 print("System ready!\nPausig for 3 minutes to prevent faulse alarms...")
 time.sleep(180)
