@@ -23,7 +23,7 @@ Note that this program will need access to your email account of choice, you mus
 
 # Additional Notes
 
-This project is open source! Please feel free to take as you wish and edit it as needed. hook up other runctions or compleatly rewrite it from the ground up! The choice is yours!
+This project is open source! Please feel free to take as you wish and edit it as needed. hook up other functions or compleatly rewrite it from the ground up! The choice is yours!
 
 # How to run
 
