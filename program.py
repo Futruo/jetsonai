@@ -15,7 +15,7 @@ print("email setup complete!\nstarting detectmodel...")
 
 # Start detectnet model
 net = jetson.inference.detectNet("ssd-mobilenet-v2", threshold=0.5)
-camera = jetson.utils.videoSource("/dev/video0")
+camera = jetson.utils.videoSource("/dev/video0") # 'csi://0' for MIPI CSI camera
 display = jetson.utils.videoOutput("display://0") # 'my_video.mp4' for file
 print("System ready!\nPausig for 3 minutes to prevent faulse alarms...")
 time.sleep(180)
