@@ -16,6 +16,11 @@ Thanks for looking at this project! I hope it exceeds your expecations
 3. USB webcam
 4. HDMI cable, keyboard, mouse (optional)
 
+
+# Limitations
+
+Note that this program will need access to your email account of choice, you must get an app password and or allow less secure apps.
+
 # How to run
 
 The steps for runnings this program are simple!
