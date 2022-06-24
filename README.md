@@ -21,6 +21,10 @@ Thanks for looking at this project! I hope it exceeds your expecations
 
 Note that this program will need access to your email account of choice, you must get an app password and or allow less secure apps.
 
+# Additional Notes
+
+This project is open source! Please feel free to take as you wish and edit it as needed. hook up other runctions or compleatly rewrite it from the ground up! The choice is yours!
+
 # How to run
 
 The steps for runnings this program are simple!
