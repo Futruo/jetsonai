@@ -7,7 +7,6 @@ This project is a proof of concept for a system desnined to send emails when a p
 Google recently made it so 3rd party apps no longer can access gmail through insecure methods such as no ssl encryption. This complicates things greatly and most services are the same way. Thus the email sending function may not work as expected.
 
 Thanks for looking at this project! I hope it exceeds your expecations
--Garison
 
 # Prerequisites
 
